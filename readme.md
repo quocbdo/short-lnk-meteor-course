@@ -1,3 +1,7 @@
-Short Lnk
+# Short Lnk
 
-This is from Udemy React & Meteor lesson.
+This is a link shortener built on Meteor and React.
+
+## Authors
+
+Quoc Do
